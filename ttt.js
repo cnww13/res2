@@ -1,6 +1,6 @@
 function ts() {
 
-    return a+a;
+    return a++a+a;
     
 }
 ts();
